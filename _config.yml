@@ -21,7 +21,7 @@ source_link: "https://github.com/usmanaura47/viral-tool-site"
 favicon:     "/images/favicon.ico"
 touch_icon:  "/images/apple-touch-icon.png"
 show_downloads: true
-google_analytics:
+google_analytics: UA-76202959-3
 theme: hacker-theme
 
 twitter:
