@@ -128,3 +128,11 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 		</a>
 	</li>
 </ul>
+
+<hr/>
+
+Site Developed By Malik Usman Aura
+
+Powered By [Jekyll]()
+
+With <span><i class="fa fa-heart fa-fw" id="c-red"></i></span> From Pakistan
