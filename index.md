@@ -100,7 +100,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 		</a>
 	</li>
 	<li>
-		<a href="https://twitter.com" target="_blank">
+		<a href="mailto:usmanaura47[at]gmail[dot]com" target="_blank">
 		  <i class="fa fa-envelope fa-fw"></i>Mail
 		</a>
 	</li>
@@ -110,17 +110,17 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 <ul>
 	<li>
-		<a href="https://www.facebook.com/malikusman.aura" target="_blank">
+		<a href="https://leosoftwares4u.tk" target="_blank">
 		  <i class="fa fa-globe fa-fw"></i>Offical Website
 		</a>
 	</li>
 	<li>
-		<a href="https://www.facebook.com/malikusman.aura" target="_blank">
+		<a href="https://www.facebook.com/leosoftwarespak/" target="_blank">
 		  <i class="fa fa-facebook fa-fw"></i>Facebook
 		</a>
 	</li>
 	<li>
-		<a href="https://twitter.com/malikusmanaura" target="_blank">
+		<a href="https://twitter.com/LeoSoftwaresPak" target="_blank">
 		  <i class="fa fa-twitter fa-fw"></i>Twitter
 		</a>
 	</li>
