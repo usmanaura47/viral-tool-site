@@ -10,7 +10,7 @@ In this era of computers, threats have increased more than ever before & that's 
 With this software you can create up to 26 malware's in different formats in no time. You can then view & edit the source codes of the generated malware. 
 Ethical Hackers can use this software in a secure way during pen testing. It can also be used to check system security by any kind of user.
 
-
+<br/><br/>
 # [](#features)Features
 * * *
 
@@ -23,7 +23,7 @@ Some features of Viral Tool are :
 * Generate malware in different formats
 * Full Windows Support
 
-
+<br/><br/>
 # [](#screenshots)Screenshots
 * * *
 
@@ -40,7 +40,7 @@ Viral Tool Save As Screen
 ![Viral Tool About](/viral-tool-site/images/viraltool_3.png)
 Viral Tool About Screen
 
-
+<br/><br/>
 # [](#download)Download
 * * *
 
@@ -58,7 +58,7 @@ Want to download Viral Tool?
 
 N/A
 
-
+<br/><br/>
 # [](#about)About
 * * *
 
@@ -70,7 +70,7 @@ In terms of Education, I am an Associate Engineer in Computer Information Techno
 Most of my abilities are in the field of Cyber Security , Ethical hacking , Search Engine Optimization , Web Development , Customization and Tweaking of Windows, different stuff in Linux & I can code in multiple programming languages 
 like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting etc.
 
-
+<br/><br/>
 # [](#contact)Contact
 * * *
 
