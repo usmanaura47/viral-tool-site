@@ -42,3 +42,7 @@ social:
 download: viraltool.zip
 downloadc: viraltoolcli.zip
 sourcecode: https://https://github.com/usmanaura47/viral-tool
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
