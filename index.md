@@ -5,7 +5,10 @@ layout: default
 # [](#home)Home
 * * *
 
-Viral Tool is a smart easy-to-use software specially designed for one sole purpose "Create Malwares" . In this era of computers, threats have increased more then before & that's why software's like these come in handy. With this software we can create malwares in different formats. We can view & edit the source code of those malwares. Ethical Hackers can use this software in a secure way during pen testing.
+Viral Tool is a smart, easy-to-use software specially designed for creating malware for security testing purposes. 
+In this era of computers, threats have increased more than before & that's why software's like this comes in handy. 
+With this software you can create up to 26 malware's in different formats. You can then view & edit the source codes of the generated malware. 
+Ethical Hackers can use this software in a secure way during pen testing. It can also be used to check system security by any type of user.
 
 
 # [](#features)Features
