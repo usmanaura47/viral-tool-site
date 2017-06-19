@@ -73,26 +73,10 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Find me on
 
-zxxx
-
-[Help](#){: .fa fa-twitter fa-fw}
-
-<a href="#">
-<i class="fa fa-twitter fa-fw">Twitter
-</a>
-
-<a href="#">
-<i class="fa fa-twitter fa-fw">Facebook
-</a>
-
-<a href="#"><i class="fa fa-twitter fa-fw">Github</a>
-
-<a href="#"><i class="fa fa-twitter fa-fw">Linkedin</a>
-
-<a href="#"><i class="fa fa-twitter fa-fw"></a>
-
-or Contact Me via Leo Softwares Pages
-
-<a href="#"><i class="fa fa-twitter fa-fw"></a>
-
-<a href="#"><i class="fa fa-twitter fa-fw"></a>
+<ul>
+	<li>
+    <a href="https://twitter.com">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+</ul>
