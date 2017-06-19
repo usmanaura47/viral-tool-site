@@ -57,6 +57,8 @@ Want to download Viral Tool?
 
 [Download Commandline Version]({{ site.url }}/downloads/{{ site.downloadc }})
 
+[Viral Tool on sourceforge.net](https://sourceforge.net/projects/viraltool/)
+
 [Download Source Code]({{ site.sourcecode }})
 
 **Older Versions :**
