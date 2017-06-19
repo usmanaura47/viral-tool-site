@@ -139,5 +139,5 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Site Developed By Malik Usman Aura <br/>
 Powered By jekyll <br/>
-With <span><i class="fa fa-heart fa-fw" id="c-red"></i></span> From Pakistan
+With <span><i class="fa fa-heart fa-fw" id="c-red"></i></span> From Pakistan <br/>
 This site is [Open Source]({{ site.source_link }})
