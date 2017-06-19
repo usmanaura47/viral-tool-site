@@ -130,7 +130,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 </ul>
 
 <br/><br/>
-<hr/>
+<hr/><hr/>
 
 Site Developed By Malik Usman Aura <br/>
 Powered By jekyll <br/>
