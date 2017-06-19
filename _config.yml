@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Viral Tool"
-keywords:    "viral tool"
+keywords:    "viral tool, malware generator, virus generator, virus maker, virus creator, malware creator, malik usman aura, leo softwares pakistan, viraltool"
 description: "A smart, fast and secure malware generator for security testing purposes"
 source_link: "https://github.com/usmanaura47/viral-tool-site"
 favicon:     "img/favicon.ico"
@@ -26,7 +26,7 @@ theme: hacker-theme
 
 twitter:
   username: malikusmanaura
-  image: /img/pic2.png
+  image: /images/malikusmanaura.jpg
   
 author: "Malik Usman Aura"
 social:
