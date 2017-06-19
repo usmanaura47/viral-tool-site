@@ -34,15 +34,15 @@ Some features of Viral Tool are :
 
 Some screenshots of Viral Tool are :
 
-![Viral Tool UI](/viral-tool-site/images/viraltool_1.png)
+![Viral Tool UI](/images/viraltool_1.png)
 Viral Tool UI
 
 
-![Viral Tool Save](/viral-tool-site/images/viraltool_2.png)
+![Viral Tool Save](/images/viraltool_2.png)
 Viral Tool Save As Screen
 
 
-![Viral Tool About](/viral-tool-site/images/viraltool_3.png)
+![Viral Tool About](/images/viraltool_3.png)
 Viral Tool About Screen
 
 <br/><br/>
@@ -67,7 +67,7 @@ N/A
 # [](#about)About
 * * *
 
-![Malik Usman Aura](/viral-tool-site/images/malikusmanaura.jpg){: #mypic}
+![Malik Usman Aura](/images/malikusmanaura.jpg){: #mypic}
 
 Hello, my name is [Malik Usman Aura](mailto:usmanaura47[at]gmsil[dot]com) . I am from Pakistan & like other Pakistani people I love technology. 
 You can call me a geek in computers and computer related Technologies. I have an obsession with computers. 
