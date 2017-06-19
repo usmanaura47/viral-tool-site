@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Viral Tool"
 keywords:    "viral tool, malware generator, virus generator, virus maker, virus creator, malware creator, malik usman aura, leo softwares pakistan, viraltool"
-description: "A smart, fast and secure malware generator for security testing purposes"
+description: "A smart, fast and secure malware generator / virus maker for security testing purposes"
 source_link: "https://github.com/usmanaura47/viral-tool-site"
 favicon:     "/images/favicon.ico"
 touch_icon:  "/images/apple-touch-icon.png"
