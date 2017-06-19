@@ -70,3 +70,6 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 # [](#contact)Contact
 * * *
+
+You guys can contact me by :
+
