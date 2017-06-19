@@ -25,11 +25,22 @@ Some features of Viral Tool are :
 Some screenshots of Viral Tool are :
 
 ![Viral Tool UI](/viral-tool-site/images/viraltool_1.png)
+Viral Tool UI
+
 ![Viral Tool Save](/viral-tool-site/images/viraltool_2.png)
+Viral Tool Save As Screen
+
 ![Viral Tool About](/viral-tool-site/images/viraltool_3.png)
+Viral Tool About Screen
 
 # [](#download)Download
 * * *
+
+Want to download Viral Tool?
+
+Latest Version : 1.0
+[Download]({{ site.url }}/downloads/{{ site.download }})
+[Download Commandline Version]({{ site.url }}/downloads/{{ site.downloadc }})
 
 # [](#about)About
 * * *
