@@ -24,9 +24,9 @@ Some features of Viral Tool are :
 
 Some screenshots of Viral Tool are :
 
-![Viral Tool UI](/images/viraltool1.png)
-![Viral Tool Save](/images/viraltool2.png)
-![Viral Tool About](/images/viraltool3.png)
+![Viral Tool UI](//images/viraltool1.png)
+![Viral Tool Save](//images/viraltool2.png)
+![Viral Tool About](//images/viraltool3.png)
 
 # [](#download)Download
 * * *
