@@ -57,7 +57,7 @@ Want to download Viral Tool?
 
 [Download Commandline Version]({{ site.url }}/downloads/{{ site.downloadc }})
 
-[Download Source Code]({{ site.url }}/downloads/{{ site.downloadc }})
+[Download Source Code]({{ site.sourcecode }})
 
 **Older Versions :**
 
