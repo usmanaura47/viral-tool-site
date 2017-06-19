@@ -6,9 +6,9 @@ layout: default
 * * *
 
 Viral Tool is a smart, easy-to-use software specially designed for creating malware for security testing purposes. 
-In this era of computers, threats have increased more than before & that's why software's like this comes in handy. 
-With this software you can create up to 26 malware's in different formats. You can then view & edit the source codes of the generated malware. 
-Ethical Hackers can use this software in a secure way during pen testing. It can also be used to check system security by any type of user.
+In this era of computers, threats have increased more than ever before & that's why a software like this comes in handy. 
+With this software you can create up to 26 malware's in different formats in no time. You can then view & edit the source codes of the generated malware. 
+Ethical Hackers can use this software in a secure way during pen testing. It can also be used to check system security by any kind of user.
 
 
 # [](#features)Features
@@ -133,6 +133,6 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Site Developed By Malik Usman Aura
 
-Powered By [Jekyll]()
+Powered By jekyll
 
 With <span><i class="fa fa-heart fa-fw" id="c-red"></i></span> From Pakistan
