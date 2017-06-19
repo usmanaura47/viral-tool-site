@@ -18,8 +18,8 @@ title:       "Viral Tool"
 keywords:    "viral tool, malware generator, virus generator, virus maker, virus creator, malware creator, malik usman aura, leo softwares pakistan, viraltool"
 description: "A smart, fast and secure malware generator for security testing purposes"
 source_link: "https://github.com/usmanaura47/viral-tool-site"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "/images/favicon.ico"
+touch_icon:  "/images/apple-touch-icon.png"
 show_downloads: true
 google_analytics:
 theme: hacker-theme
