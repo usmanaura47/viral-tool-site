@@ -96,7 +96,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 	</li>
 	<li>
 		<a href="https://plus.google.com/+MalikUsmanAura" target="_blank">
-		  <i class="fa fa-google-plus-offical fa-fw"></i>Google+
+		  <i class="fa fa-google-plus-official fa-fw"></i>Google+
 		</a>
 	</li>
 	<li>
