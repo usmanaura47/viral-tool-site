@@ -70,7 +70,7 @@ In terms of Education, I am an Associate Engineer in Computer Information Techno
 Most of my abilities are in the field of Cyber Security , Ethical hacking , Search Engine Optimization , Web Development , Customization and Tweaking of Windows, different stuff in Linux & I can code in multiple programming languages 
 like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting etc.
 
-Note : Viral Tool is for educational purposes only. I will claim no responsibility for any kind of damage or data loss caused while using or misusing this software.
+Note : cViral Tool is for educational purposes only. I will claim no responsibility for any kind of damage or data loss caused while using or misusing this software.
 It should not be misused to gain unauthorized access and/or write malicious programs for unethical purposes a.k.a cracking.
 {: #is-red}
 
