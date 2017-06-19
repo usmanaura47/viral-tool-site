@@ -73,7 +73,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Find me on
 
-zxzxxx
+zxxxx
 
 [Help](#){: '.fa fa-twitter fa-fw'}
 
