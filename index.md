@@ -24,7 +24,7 @@ Some features of Viral Tool are :
 
 Some screenshots of Viral Tool are :
 
-![Viral Tool]('/images/viraltool.png')
+![Viral Tool](/images/viraltool.png)
 
 
 # [](#download)Download
