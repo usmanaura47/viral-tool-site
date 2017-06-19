@@ -75,11 +75,15 @@ Find me on
 
 zxxxx
 
-[Help](#){: '.fa fa-twitter fa-fw'}
+[Help](#){: .fa fa-twitter fa-fw}
 
-<a href="#"><i class="fa fa-twitter fa-fw">Twitter</a>
+<a href="#">
+<i class="fa fa-twitter fa-fw">Twitter
+</a>
 
-<a href="#"><i class="fa fa-twitter fa-fw">Facebook</a>
+<a href="#">
+<i class="fa fa-twitter fa-fw">Facebook
+</a>
 
 <a href="#"><i class="fa fa-twitter fa-fw">Github</a>
 
