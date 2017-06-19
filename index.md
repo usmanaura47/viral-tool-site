@@ -70,3 +70,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 # [](#contact)Contact
 * * *
+
+Find me on
+
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
