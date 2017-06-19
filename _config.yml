@@ -26,8 +26,16 @@ theme: hacker-theme
 
 twitter:
   username: malikusmanaura
-  image: /images/malikusmanaura.jpg
-  
+  image: /images/logo.png
+
+url: https://viraltool.tk   # with the https protocol
+enforce_ssl: viraltool.tk
+
+logo: /images/logo.png
+
+image: 
+  path: /images/logo.png
+
 author: "Malik Usman Aura"
 social:
   name: Malik Usman Aura
