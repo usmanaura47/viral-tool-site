@@ -71,9 +71,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 # [](#contact)Contact
 * * *
 
-Find me on
-
-
+**Find me on**
 
 <ul>
 	<li>
@@ -104,6 +102,26 @@ Find me on
 	<li>
 		<a href="https://twitter.com" target="_blank">
 		  <i class="fa fa-envelope fa-fw"></i>Mail
+		</a>
+	</li>
+</ul>
+
+**Contact Me via Leo Softwares Pak**
+
+<ul>
+	<li>
+		<a href="https://www.facebook.com/malikusman.aura" target="_blank">
+		  <i class="fa fa-globe fa-fw"></i>Offical Website
+		</a>
+	</li>
+	<li>
+		<a href="https://www.facebook.com/malikusman.aura" target="_blank">
+		  <i class="fa fa-facebook fa-fw"></i>Facebook
+		</a>
+	</li>
+	<li>
+		<a href="https://twitter.com/malikusmanaura" target="_blank">
+		  <i class="fa fa-twitter fa-fw"></i>Twitter
 		</a>
 	</li>
 </ul>
