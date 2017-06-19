@@ -73,6 +73,8 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Find me on
 
+s
+
 <ul>
 	<li>
     <a href="https://twitter.com">
