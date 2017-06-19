@@ -82,3 +82,9 @@ Find me on
 <a href="#"><i class="fa fa-twitter fa-fw"></a>
 
 <a href="#"><i class="fa fa-twitter fa-fw"></a>
+
+or Contact Me via Leo Softwares Pages
+
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
+
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
