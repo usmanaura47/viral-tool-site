@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Viral Tool"
 keywords:    "viral tool"
 description: "A smart, fast and secure malware generator for security testing purposes"
-source_link: "https://github.com/usmanaura47/viral-tool"
+source_link: "https://github.com/usmanaura47/viral-tool-site"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 show_downloads: true
