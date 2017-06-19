@@ -60,7 +60,7 @@ N/A
 * * *
 
 ![Malik Usman Aura](/viral-tool-site/images/malikusmanaura.jpg)
-{: .center}
+{: .text-center}
 
 Hello, my name is [Malik Usman Aura](mailto:usmanaura47[at]gmsil[dot]com) . I am from Pakistan & like other Pakistani people I love technology. 
 You can call me a geek in computers and computer related Technologies. I have an obsession with computers. 
