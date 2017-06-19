@@ -1,5 +1,42 @@
-title: Viral Tool
-description: A smart, fast and secure malware generator for security testing purposes.
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Viral Tool"
+keywords:    "viral tool"
+description: "A smart, fast and secure malware generator for security testing purposes"
+source_link: "https://github.com/usmanaura47/viral-tool"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 show_downloads: true
 google_analytics:
 theme: hacker-theme
+
+twitter:
+  username: malikusmanaura
+  image: /img/pic2.png
+  
+author: "Malik Usman Aura"
+social:
+  name: Malik Usman Aura
+  links:
+    - https://twitter.com/malikusmanaura
+    - https://www.facebook.com/malikusman.aura
+    - https://pk.linkedin.com/in/malikusmanaura
+    - https://plus.google.com/+MalikUsmanAura
+    - https://github.com/usmanaura47
+    - https://sourceforge.net/u/usman47
+    
+download: 
