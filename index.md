@@ -43,7 +43,7 @@ Viral Tool About Screen
 
 Want to download Viral Tool?
 
-Latest Version : 1.0 (Released on  03/05/2015)
+**Latest Version : 1.0** (Released on  03/05/2015)
 
 [Download]({{ site.url }}/downloads/{{ site.download }})
 
@@ -51,13 +51,20 @@ Latest Version : 1.0 (Released on  03/05/2015)
 
 [Download Source Code]({{ site.url }}/downloads/{{ site.downloadc }})
 
-Older Versions :
+**Older Versions :**
 
 N/A
 
 
 # [](#about)About
 * * *
+
+Hello, my name is [Malik Usman Aura](mailto:usmanaura47[at]gmsil[dot]com) . I am from Pakistan & like other Pakistani people I love technology. 
+You can call me a geek in computers and computer related Technologies. I have an obsession with computers. 
+In terms of Education, I am an Associate Engineer in Computer Information Technology. 
+Most of my abilities are in the field of Cyber Security , Ethical hacking , Search Engine Optimization , Web Development , Customization and Tweaking of Windows, different stuff in Linux & I can code in multiple programming languages 
+like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting etc.
+
 
 # [](#contact)Contact
 * * *
