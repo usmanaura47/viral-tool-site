@@ -22,7 +22,6 @@ favicon:     "/images/favicon.ico"
 touch_icon:  "/images/apple-touch-icon.png"
 show_downloads: true
 google_analytics: UA-76202959-3
-theme: hacker-theme
 
 twitter:
   username: malikusmanaura
