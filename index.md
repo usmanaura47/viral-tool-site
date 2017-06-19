@@ -74,3 +74,7 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 Find me on
 
 <a href="#"><i class="fa fa-twitter fa-fw"></a>
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
+<a href="#"><i class="fa fa-twitter fa-fw"></a>
