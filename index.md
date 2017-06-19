@@ -78,7 +78,17 @@ s
 <ul>
 	<li>
     <a href="https://twitter.com">
-      <i class="fa fa-twitter"></i> Twitter
+      <i class="fa fa-twitter"></i>Twitter
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com">
+      <i class="fa fa-twitter"></i>Twitter
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com">
+      <i class="fa fa-twitter"></i>Twitter
     </a>
   </li>
 </ul>
