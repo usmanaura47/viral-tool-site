@@ -73,6 +73,8 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 
 Find me on
 
+gg
+
 [Help](#){.fa fa-twitter fa-fw}
 
 <a href="#"><i class="fa fa-twitter fa-fw">Twitter</a>
