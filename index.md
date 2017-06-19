@@ -129,8 +129,8 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 	</li>
 </ul>
 
+<br/><br/><br>
 <hr/>
-<br/><br/>
 
 Site Developed By Malik Usman Aura
 Powered By jekyll
