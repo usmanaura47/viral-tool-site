@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#home)Home
+# [](#home)<span class="fa fa-home fa-fw"></span>Home
 * * *
 
 Viral Tool is a smart, easy-to-use software specially designed for creating malware for security testing purposes. 
@@ -16,7 +16,7 @@ It should not be misused to gain unauthorized access and/or write malicious prog
 
 
 <br/><br/>
-# [](#features)Features
+# [](#features)<span class="fa fa-list-ol fa-fw"></span>Features
 * * *
 
 Some features of Viral Tool are : 
@@ -29,7 +29,7 @@ Some features of Viral Tool are :
 * Full Windows Support
 
 <br/><br/>
-# [](#screenshots)Screenshots
+# [](#screenshots)<span class="fa fa-camera fa-fw"></span>Screenshots
 * * *
 
 Some screenshots of Viral Tool are :
@@ -46,7 +46,7 @@ Viral Tool Save As Screen
 Viral Tool About Screen
 
 <br/><br/>
-# [](#download)Download
+# [](#download)<span class="fa fa-download fa-fw"></span>Download
 * * *
 
 Want to download Viral Tool?
@@ -66,7 +66,7 @@ Want to download Viral Tool?
 N/A
 
 <br/><br/>
-# [](#about)About
+# [](#about)<span class="fa fa-info-circle fa-fw"></span>About
 * * *
 
 ![Malik Usman Aura](/images/malikusmanaura.jpg){: #mypic}
@@ -78,7 +78,7 @@ Most of my abilities are in the field of Cyber Security , Ethical hacking , Sear
 like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting etc.
 
 <br/><br/>
-# [](#contact)Contact
+# [](#contact)<span class="fa fa-envelope fa-fw"></span>Contact
 * * *
 
 **Find me on**
