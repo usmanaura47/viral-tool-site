@@ -26,15 +26,16 @@
         float: none;
         line-height: 20px;
     }
+    #skull-container .pre-large {
+        font-size: 11px;
+    }
 }
 
 @media screen and (max-width: 380px) {
      #skull-container {
         font: 3px/3px monospace;
     }
-    #skull-container .pre-large {
-        font-size: 11px;
-    }
+    
     pre {
         text-align: left;
     }
