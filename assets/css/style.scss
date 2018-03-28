@@ -22,6 +22,8 @@
 }  
 
 @media screen and (max-width: 480px) {
-	float: none;
-	line-height: 20px;
+    #menu li { 
+        float: none;
+        line-height: 20px;
+    }
 }
