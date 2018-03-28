@@ -22,6 +22,9 @@
 }  
 
 @media screen and (max-width: 600px) {
+    pre {
+        text-align: left;
+    }
     #menu li { 
         float: none;
         line-height: 20px;
@@ -32,6 +35,5 @@
     }
     #skull-container .pre-large {
         font-size: 10px;
-        text-align: left;
     }
 }
