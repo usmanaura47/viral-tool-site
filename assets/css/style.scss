@@ -29,8 +29,10 @@
         float: none;
         line-height: 20px;
     }
-    
-    #skull-container {
+}
+
+@media screen and (max-width: 380px) {
+     #skull-container {
         font: 3px/3px monospace;
     }
     #skull-container .pre-large {
