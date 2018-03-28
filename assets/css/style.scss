@@ -34,14 +34,7 @@
     #skull-container .pre-large {
         font-size: 11px;
     }
-}
-
-@media screen and (max-width: 380px) {
-     #skull-container {
+	#skull-container {
         font: 3px/3px monospace;
-    }
-    
-    pre {
-        text-align: left;
     }
 }
