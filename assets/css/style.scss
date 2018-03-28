@@ -21,7 +21,7 @@
     text-decoration:none;  
 }  
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     pre {
         text-align: left;
     }
@@ -34,6 +34,6 @@
         font: 3px/3px monospace;
     }
     #skull-container .pre-large {
-        font-size: 10px;
+        font-size: 11px;
     }
 }
