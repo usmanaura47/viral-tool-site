@@ -50,6 +50,6 @@ download: viraltool.zip
 downloadc: viraltoolcli.zip
 sourcecode: https://github.com/usmanaura47/viral-tool
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
