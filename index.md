@@ -86,32 +86,32 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 <ul>
 	<li>
 		<a href="https://twitter.com/malikusmanaura" target="_blank">
-		  <i class="fa fa-twitter fa-fw"></i> Twitter
+		  <i class="fa fa-twitter fa-fw"></i>Twitter
 		</a>
 	</li>
 	 <li>
 		<a href="https://www.facebook.com/malikusman.aura" target="_blank">
-		  <i class="fa fa-facebook fa-fw"></i> Facebook
+		  <i class="fa fa-facebook fa-fw"></i>Facebook
 		</a>
 	</li>
 	<li>
 		<a href="https://pk.linkedin.com/in/malikusmanaura" target="_blank">
-		  <i class="fa fa-linkedin fa-fw"></i> Linkedin
+		  <i class="fa fa-linkedin fa-fw"></i>Linkedin
 		</a>
 	</li>
 	<li>
 		<a href="https://github.com/usmanaura47" target="_blank">
-		  <i class="fa fa-github fa-fw"></i> Github
+		  <i class="fa fa-github fa-fw"></i>Github
 		</a>
 	</li>
 	<li>
 		<a href="https://plus.google.com/+MalikUsmanAura" target="_blank">
-		  <i class="fa fa-google-plus-official fa-fw"></i> Google+
+		  <i class="fa fa-google-plus-official fa-fw"></i>Google+
 		</a>
 	</li>
 	<li>
 		<a href="mailto:usmanaura47[at]gmail[dot]com" target="_blank">
-		  <i class="fa fa-envelope fa-fw"></i> Mail
+		  <i class="fa fa-envelope fa-fw"></i>Mail
 		</a>
 	</li>
 </ul>
