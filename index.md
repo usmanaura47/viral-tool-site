@@ -121,17 +121,17 @@ like Visual Basic 6, C , Python , HTML , CSS, JavaScript, php, Batch Scripting e
 <ul>
 	<li>
 		<a href="https://leosoftwares4u.tk" target="_blank">
-		  <i class="fa fa-globe fa-fw"></i> Offical Website
+		  <i class="fa fa-globe fa-fw"></i>Offical Website
 		</a>
 	</li>
 	<li>
 		<a href="https://www.facebook.com/leosoftwarespak/" target="_blank">
-		  <i class="fa fa-facebook fa-fw"></i> Facebook
+		  <i class="fa fa-facebook fa-fw"></i>Facebook
 		</a>
 	</li>
 	<li>
 		<a href="https://twitter.com/LeoSoftwaresPak" target="_blank">
-		  <i class="fa fa-twitter fa-fw"></i> Twitter
+		  <i class="fa fa-twitter fa-fw"></i>Twitter
 		</a>
 	</li>
 </ul>
